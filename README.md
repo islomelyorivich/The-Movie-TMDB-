@@ -15,4 +15,5 @@ Islom----card, <!-- sort declanding and ascanding -->
 
 
 ***** UI  must finished until tuesday ****** 
+![image](https://user-images.githubusercontent.com/98649507/167175346-dcca73b3-5af7-4ab9-85b6-3f0e985bcb45.png)
 
